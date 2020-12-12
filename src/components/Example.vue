@@ -1,6 +1,6 @@
 <template>
   <div class="example">
-    <button @click="showModal">modal</button>
+    <button @click="showModal">showModal</button>
   </div>
 </template>
 

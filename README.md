@@ -35,6 +35,8 @@ export default {
 }
 ```
 
+![img](./docs/images/img.png)
+
 ## API
 | 参数 | 说明 | 类型 | 默认值 |
 | -- | -- | -- | -- |
